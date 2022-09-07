@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662506129 source:c:\users\tiago\desktop\unip\projetos\mediaads\calculomediaads\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
